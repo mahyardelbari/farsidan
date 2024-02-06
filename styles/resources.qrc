@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>back.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>back-arrow.png</file>
+  </qresource>
+</RCC>
