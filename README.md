@@ -1,17 +1,17 @@
 # farsidan
- Application of Farsi lesson  for high school students 
+ Application of prshian language and iranian people  for high school students 
 
 ## co - work
-[Mahyar Delbari ](https://github.com/mahyardelbari)
+[amirali abbasi ](https://github.com/itsAmiraly)
 
 ## Installation
 The first thing to do is to clone the repository:
 ```sh
-git clone https://github.com/itsAmirali/farsidan
+git clone https://github.com/mahyardelbari/farsidan
 ```
 
 ```sh
-cd math_app
+cd farsidan
 ```
 Create a virtual environment to install dependencies 
 in and activate it:
