@@ -3,8 +3,8 @@ import sqlite3
 import re
 
 
-chunker_model = r"D:\farsidan\models\chunker.model"
-pos_tagger_model = r"D:\farsidan\models\pos_tagger.model"
+chunker_model = r"models\chunker.model"
+pos_tagger_model = r"models\pos_tagger.model"
 
 
 def translate_pos_tags_to_persian(tag_list):

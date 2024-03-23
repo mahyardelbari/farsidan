@@ -1,2 +1,2 @@
-PyQt5
-hazm
+PyQt5==5.15.9
+hazm==0.10.0
