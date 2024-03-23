@@ -1,6 +1,10 @@
 # farsidan
  Application of prshian language and iranian people  for high school students 
 
+one part of this app
+![image](image.png)
+
+
 ## co - work
 [amirali abbasi ](https://github.com/itsAmiraly)
 
